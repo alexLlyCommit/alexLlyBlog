@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alexLlyBlog/static/css/main.2cce8147.chunk.css",
+    "main.js": "/alexLlyBlog/static/js/main.96776906.chunk.js",
+    "main.js.map": "/alexLlyBlog/static/js/main.96776906.chunk.js.map",
+    "runtime~main.js": "/alexLlyBlog/static/js/runtime~main.d0d93ae7.js",
+    "runtime~main.js.map": "/alexLlyBlog/static/js/runtime~main.d0d93ae7.js.map",
+    "static/js/2.b41502e9.chunk.js": "/alexLlyBlog/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/alexLlyBlog/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/alexLlyBlog/index.html",
+    "precache-manifest.3b5734249ae9d673163605eaef34e09b.js": "/alexLlyBlog/precache-manifest.3b5734249ae9d673163605eaef34e09b.js",
+    "service-worker.js": "/alexLlyBlog/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/alexLlyBlog/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/alexLlyBlog/static/media/logo.5d5d9eef.svg"
+  }
+}
